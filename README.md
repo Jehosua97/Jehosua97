@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEeC6V2M_kxGg/profile-displaybackgroundimage-shrink_350_1400/B4EZY1uuoOHMAY-/0/1744658164786?e=1760572800&v=beta&t=sEMN6JZab5s8-w2eM_LjVjVEffZrXUUsrp1pXGBD4w8" alt="Header" style="width: 100%; border-radius: 10px; margin-bottom: 20px;">
-  
+  <div style="overflow: hidden; height: 300px; border-radius: 10px; margin-bottom: 20px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4E16AQEeC6V2M_kxGg/profile-displaybackgroundimage-shrink_350_1400/B4EZY1uuoOHMAY-/0/1744658164786?e=1760572800&v=beta&t=sEMN6JZab5s8-w2eM_LjVjVEffZrXUUsrp1pXGBD4w8" 
+         alt="Header" 
+         style="width: 100%; transition: transform 0.5s; transform: scale(1.1);">
+  </div>
   <p>
     <a href="https://github.com/Jehosua97">
       <img src="https://img.shields.io/badge/Portfolio-GitHub-blue?style=flat&logo=github" alt="Portfolio">
