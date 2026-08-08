@@ -21,15 +21,20 @@ I'm excited about opportunities to collaborate, innovate, and contribute to proj
 
 ---
 
+### 🏆 Best Project of the Year — Conestoga College 2025
+Awarded for a distributed voting system built with my team, using **Apache Kafka** for event-driven replication across independent nodes instead of a shared database. Backend + architecture: [dockersVoteSystem](https://github.com/Jehosua97/dockersVoteSystem) · Live dashboard: [voteSystem](https://github.com/Jehosua97/voteSystem).
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
+| 🏆 [dockersVoteSystem](https://github.com/Jehosua97/dockersVoteSystem) | Award-winning distributed voting system — independent nodes replicate votes via Kafka pub/sub instead of a shared database | Kafka, Zookeeper, Docker Compose, Flask, Python |
 | [ipv6-transition-mechanisms-lab](https://github.com/Jehosua97/ipv6-transition-mechanisms-lab) | Containerized network lab comparing IPv4, native IPv6, and 6in4 tunneling — automated topology, packet captures, dashboards, and measured latency/throughput results | Docker, PowerShell, Wireshark |
 | [iot-secure-gateway-mirai-mitigation](https://github.com/Jehosua97/iot-secure-gateway-mirai-mitigation) | Default-deny `nftables` gateway engineered and tested against simulated Mirai-style botnet reconnaissance and lateral traffic | Docker, nftables, Bash |
 | [n8nMultiServiceAutomation](https://github.com/Jehosua97/n8nMultiServiceAutomation) | Containerized business-automation monorepo: n8n workflows, TypeScript services, and PostgreSQL, with human-approval gates before any sensitive action | Docker Compose, n8n, TypeScript, PostgreSQL |
 | [Physical-Security-Monitoring-Platform-for-Condominiums](https://github.com/Jehosua97/Physical-Security-Monitoring-Platform-for-Condominiums) | Multi-service security-operations platform prototype orchestrating an API, database, object storage, MQTT, and a telemetry dashboard across simulated remote sites | FastAPI, PostgreSQL, MinIO, MQTT, ThingsBoard |
-| [ImageProcessing-Cloud-vs-OnPrem](https://github.com/Jehosua97/ImageProcessing-Cloud-vs-OnPrem) | Reproducible benchmark pitting on-prem processing against AWS Lambda + S3 serverless, with an automated orchestrator and generated performance charts | AWS Lambda, S3, Python |
 | [acme-client-intake-automation](https://github.com/Jehosua97/acme-client-intake-automation) | Real client workflow automation: a manual intake process turned into a persistent, auditable case-tracking system with cloud document handling | TypeScript, SQLite, Fastify, Google APIs |
 
 More automation, IoT, and cloud experiments live across [all my repositories](https://github.com/Jehosua97?tab=repositories&q=&type=source).
