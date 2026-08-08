@@ -3,17 +3,7 @@
 # Jehosua Joya
 ### DevOps · Platform · Cloud Engineer
 
-<p>
-  <a href="https://github.com/Jehosua97">
-    <img src="https://img.shields.io/badge/Portfolio-GitHub-blue?style=flat&logo=github" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/jehosua-joya-8846b51b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:joya.jehosua@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email">
-  </a>
-</p>
+[GitHub](https://github.com/Jehosua97) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jehosua-joya-8846b51b0/) &nbsp;·&nbsp; [Email](mailto:joya.jehosua@gmail.com)
 
 </div>
 
