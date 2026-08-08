@@ -11,7 +11,7 @@
 
 Hey there! I'm Jehosua, a Computer Engineer and MBA graduate with a passion for automation, cloud infrastructure, and solving complex technical challenges. With over 4 years of experience in Linux system administration, CI/CD pipelines, and cloud platforms like AWS and Azure, I thrive on building scalable, secure, and efficient solutions that make life easier for teams and customers alike.
 
-Currently, as a Software Configuration Management Engineer at Solera, I've automated CI/CD pipelines for 40+ applications, deployed 100+ critical business apps using Docker and Kubernetes, and optimized cloud infrastructure to reduce downtime and improve service quality. My toolkit includes Python, Bash, Ansible, Jenkins, and monitoring tools like Zabbix and Grafana—tools I use to turn manual processes into seamless, automated workflows.
+Currently, as a Software Configuration Management Engineer at Solera, I've automated CI/CD pipelines for 40+ applications, deployed 100+ critical business apps using Docker and Kubernetes, and optimized cloud infrastructure to reduce downtime and improve service quality. My toolkit includes Python, Bash, Ansible, Jenkins, and monitoring tools like Zabbix and Grafana: tools I use to turn manual processes into seamless, automated workflows.
 
 Before Solera, I worked as an IT Solutions and Product Manager at Huawei, where I developed 100+ APIs, automated 30% of manual tasks, and designed web applications that boosted collaboration and project completion rates. I'm all about teamwork, agile methodologies, and delivering solutions that align with business goals.
 
@@ -21,7 +21,7 @@ I'm excited about opportunities to collaborate, innovate, and contribute to proj
 
 ---
 
-### 🏆 Best Project of the Year — Conestoga College 2025
+### 🏆 Best Project of the Year, Conestoga College 2025
 Awarded for a distributed voting system built with my team, using **Apache Kafka** for event-driven replication across independent nodes instead of a shared database. Backend + architecture: [dockersVoteSystem](https://github.com/Jehosua97/dockersVoteSystem) · Live dashboard: [voteSystem](https://github.com/Jehosua97/voteSystem) · 📣 [Announcement](https://lnkd.in/p/gp7SSvcA)
 
 ---
@@ -30,8 +30,8 @@ Awarded for a distributed voting system built with my team, using **Apache Kafka
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| 🏆 [dockersVoteSystem](https://github.com/Jehosua97/dockersVoteSystem) | Award-winning distributed voting system — independent nodes replicate votes via Kafka pub/sub instead of a shared database | Kafka, Zookeeper, Docker Compose, Flask, Python |
-| [ipv6-transition-mechanisms-lab](https://github.com/Jehosua97/ipv6-transition-mechanisms-lab) | Containerized network lab comparing IPv4, native IPv6, and 6in4 tunneling — automated topology, packet captures, dashboards, and measured latency/throughput results | Docker, PowerShell, Wireshark |
+| 🏆 [dockersVoteSystem](https://github.com/Jehosua97/dockersVoteSystem) | Award-winning distributed voting system: independent nodes replicate votes via Kafka pub/sub instead of a shared database | Kafka, Zookeeper, Docker Compose, Flask, Python |
+| [ipv6-transition-mechanisms-lab](https://github.com/Jehosua97/ipv6-transition-mechanisms-lab) | Containerized network lab comparing IPv4, native IPv6, and 6in4 tunneling: automated topology, packet captures, dashboards, and measured latency/throughput results | Docker, PowerShell, Wireshark |
 | [iot-secure-gateway-mirai-mitigation](https://github.com/Jehosua97/iot-secure-gateway-mirai-mitigation) | Default-deny `nftables` gateway engineered and tested against simulated Mirai-style botnet reconnaissance and lateral traffic | Docker, nftables, Bash |
 | [n8nMultiServiceAutomation](https://github.com/Jehosua97/n8nMultiServiceAutomation) | Containerized business-automation monorepo: n8n workflows, TypeScript services, and PostgreSQL, with human-approval gates before any sensitive action | Docker Compose, n8n, TypeScript, PostgreSQL |
 | [Physical-Security-Monitoring-Platform-for-Condominiums](https://github.com/Jehosua97/Physical-Security-Monitoring-Platform-for-Condominiums) | Multi-service security-operations platform prototype orchestrating an API, database, object storage, MQTT, and a telemetry dashboard across simulated remote sites | FastAPI, PostgreSQL, MinIO, MQTT, ThingsBoard |
