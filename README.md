@@ -68,47 +68,20 @@ More automation, IoT, and cloud experiments live across my [pinned repositories]
 
 ## 🛠️ Technologies & Tools
 
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-### DevOps Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### Monitoring & Observability
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D30000?style=flat&logo=zabbix&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,ansible,terraform,linux,git,python,bash,ts,js,postgres,mongodb,mysql,grafana" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jehosua97&show_icons=true&theme=default" alt="Jehosua's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehosua97&layout=compact&theme=default" alt="Top Languages" />
+  <sub>Also: Zabbix · Prometheus · Fastify · n8n · MQTT · nftables</sub>
 </p>
 
 ---
 
 <div align="center">
 
-### ⚡ Fun fact: I believe automation is the key to innovation!
+### ⚡ Automation is the key to innovation.
 
-[![Visitors](https://komarev.com/ghpvc/?username=jehosua97&label=Profile%20Views&color=blue&style=flat)](https://github.com/jehosua97)
+[![Visitors](https://komarev.com/ghpvc/?username=jehosua97&label=Profile%20Views&color=0A66C2&style=flat)](https://github.com/jehosua97)
 
 </div>
