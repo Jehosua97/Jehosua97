@@ -1,20 +1,20 @@
 <div align="center">
-  <div style="overflow: hidden; height: 300px; border-radius: 10px; margin-bottom: 20px;">
-        <img src="https://media.licdn.com/dms/image/v2/D4E16AQEeC6V2M_kxGg/profile-displaybackgroundimage-shrink_350_1400/B4EZY1uuoOHMAY-/0/1744658164786?e=1760572800&v=beta&t=sEMN6JZab5s8-w2eM_LjVjVEffZrXUUsrp1pXGBD4w8" 
-         alt="Header" 
-         style="width: 100%; transition: transform 0.5s; transform: scale(1.1);">
-  </div>
-  <p>
-    <a href="https://github.com/Jehosua97">
-      <img src="https://img.shields.io/badge/Portfolio-GitHub-blue?style=flat&logo=github" alt="Portfolio">
-    </a>
-    <a href="https://www.linkedin.com/in/jehosua-joya-8846b51b0/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:joya.jehosua@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email">
-    </a>
-  </p>
+
+# Jehosua Joya
+### DevOps · Platform · Cloud Engineer
+
+<p>
+  <a href="https://github.com/Jehosua97">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub-blue?style=flat&logo=github" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/jehosua-joya-8846b51b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:joya.jehosua@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email">
+  </a>
+</p>
+
 </div>
 
 ## **Thanks for being here 😊**
@@ -31,26 +31,38 @@ I'm excited about opportunities to collaborate, innovate, and contribute to proj
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [ipv6-transition-mechanisms-lab](https://github.com/Jehosua97/ipv6-transition-mechanisms-lab) | Containerized network lab comparing IPv4, native IPv6, and 6in4 tunneling — automated topology, packet captures, dashboards, and measured latency/throughput results | Docker, PowerShell, Wireshark |
+| [iot-secure-gateway-mirai-mitigation](https://github.com/Jehosua97/iot-secure-gateway-mirai-mitigation) | Default-deny `nftables` gateway engineered and tested against simulated Mirai-style botnet reconnaissance and lateral traffic | Docker, nftables, Bash |
+| [n8nMultiServiceAutomation](https://github.com/Jehosua97/n8nMultiServiceAutomation) | Containerized business-automation monorepo: n8n workflows, TypeScript services, and PostgreSQL, with human-approval gates before any sensitive action | Docker Compose, n8n, TypeScript, PostgreSQL |
+| [Physical-Security-Monitoring-Platform-for-Condominiums](https://github.com/Jehosua97/Physical-Security-Monitoring-Platform-for-Condominiums) | Multi-service security-operations platform prototype orchestrating an API, database, object storage, MQTT, and a telemetry dashboard across simulated remote sites | FastAPI, PostgreSQL, MinIO, MQTT, ThingsBoard |
+| [ImageProcessing-Cloud-vs-OnPrem](https://github.com/Jehosua97/ImageProcessing-Cloud-vs-OnPrem) | Reproducible benchmark pitting on-prem processing against AWS Lambda + S3 serverless, with an automated orchestrator and generated performance charts | AWS Lambda, S3, Python |
+| [acme-client-intake-automation](https://github.com/Jehosua97/acme-client-intake-automation) | Real client workflow automation: a manual intake process turned into a persistent, auditable case-tracking system with cloud document handling | TypeScript, SQLite, Fastify, Google APIs |
+
+More automation, IoT, and cloud experiments live across my [pinned repositories](https://github.com/Jehosua97?tab=repositories).
+
+---
+
 ### 🔭 Current Work
 - Working at [Solera Holding](https://www.solera.com/)
-- Pursuing Graduate Certificate in Virtualization and Cloud Computing at Conestoga College
+- Pursuing a Graduate Certificate in Virtualization and Cloud Computing at Conestoga College
 
 ### 👯 Collaboration Interests
-- Cloud Hybrid solutions
+- Cloud hybrid solutions
 - Automation projects
-- DevOps initiatives
+- DevOps and platform engineering initiatives
 
 ### 💬 Ask Me About
-- Automation, Observability, CI/CD
-- Cloud Infrastructure (AWS, Azure)
+- Automation, observability, CI/CD
+- Cloud infrastructure (AWS, Azure)
 - Containerization (Docker, Kubernetes)
 
 ### 📫 How to Reach Me
 - **Email:** joya.jehosua@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/jehosua-joya-8846b51b0/](https://www.linkedin.com/in/jehosua-joya-8846b51b0/)
-
-### 👨‍💻 Projects
-All of my projects are available at [https://github.com/Jehosua97](https://github.com/Jehosua97)
+- **LinkedIn:** [linkedin.com/in/jehosua-joya-8846b51b0](https://www.linkedin.com/in/jehosua-joya-8846b51b0/)
 
 ---
 
@@ -71,6 +83,7 @@ All of my projects are available at [https://github.com/Jehosua97](https://githu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### Monitoring & Observability
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -93,9 +106,9 @@ All of my projects are available at [https://github.com/Jehosua97](https://githu
 ---
 
 <div align="center">
-  
-  ### ⚡ Fun fact: I believe automation is the key to innovation!
-  
-  [![Visitors](https://komarev.com/ghpvc/?username=jehosua97&label=Profile%20Views&color=blue&style=flat)](https://github.com/jehosua97)
-  
+
+### ⚡ Fun fact: I believe automation is the key to innovation!
+
+[![Visitors](https://komarev.com/ghpvc/?username=jehosua97&label=Profile%20Views&color=blue&style=flat)](https://github.com/jehosua97)
+
 </div>
