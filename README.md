@@ -32,7 +32,7 @@ I'm excited about opportunities to collaborate, innovate, and contribute to proj
 | [ImageProcessing-Cloud-vs-OnPrem](https://github.com/Jehosua97/ImageProcessing-Cloud-vs-OnPrem) | Reproducible benchmark pitting on-prem processing against AWS Lambda + S3 serverless, with an automated orchestrator and generated performance charts | AWS Lambda, S3, Python |
 | [acme-client-intake-automation](https://github.com/Jehosua97/acme-client-intake-automation) | Real client workflow automation: a manual intake process turned into a persistent, auditable case-tracking system with cloud document handling | TypeScript, SQLite, Fastify, Google APIs |
 
-More automation, IoT, and cloud experiments live across my [pinned repositories](https://github.com/Jehosua97?tab=repositories).
+More automation, IoT, and cloud experiments live across [all my repositories](https://github.com/Jehosua97?tab=repositories&q=&type=source).
 
 ---
 
