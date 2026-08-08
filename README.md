@@ -22,7 +22,7 @@ I'm excited about opportunities to collaborate, innovate, and contribute to proj
 ---
 
 ### 🏆 Best Project of the Year — Conestoga College 2025
-Awarded for a distributed voting system built with my team, using **Apache Kafka** for event-driven replication across independent nodes instead of a shared database. Backend + architecture: [dockersVoteSystem](https://github.com/Jehosua97/dockersVoteSystem) · Live dashboard: [voteSystem](https://github.com/Jehosua97/voteSystem).
+Awarded for a distributed voting system built with my team, using **Apache Kafka** for event-driven replication across independent nodes instead of a shared database. Backend + architecture: [dockersVoteSystem](https://github.com/Jehosua97/dockersVoteSystem) · Live dashboard: [voteSystem](https://github.com/Jehosua97/voteSystem) · 📣 [Announcement](https://lnkd.in/p/gp7SSvcA)
 
 ---
 
